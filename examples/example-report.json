@@ -1,0 +1,11 @@
+{
+  "target": "127.0.0.1",
+  "resolved_ip": "127.0.0.1",
+  "scanned_at_utc": "2026-10-29T12:00:00+00:00",
+  "ports_checked": 3,
+  "open_ports": [
+    {"port": 80, "service": "HTTP", "status": "open"}
+  ],
+  "duration_seconds": 0.02,
+  "notes": "Illustrative sample only. TCP connect results only; service inferred from port number."
+}
